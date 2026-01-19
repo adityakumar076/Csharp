@@ -1,1 +1,105 @@
 Hello Aditya 
+
+
+
+Microsoft Windows [Version 10.0.26200.7462]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\91783>cd OneDrive
+
+C:\Users\91783\OneDrive>cd Desktop
+
+C:\Users\91783\OneDrive\Desktop>dir
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 78C0-86A1
+
+ Directory of C:\Users\91783\OneDrive\Desktop
+
+08-01-2026  23:28    <DIR>          .
+09-01-2026  12:54    <DIR>          ..
+07-01-2026  13:18    <DIR>          backend
+07-01-2026  13:18    <DIR>          Projects
+07-01-2026  13:18    <DIR>          section o
+08-01-2026  11:13    <DIR>          Section _O
+08-01-2026  23:29    <DIR>          Spiky Dasher Game
+07-01-2026  13:18    <DIR>          WEB HTML
+01-01-2026  11:05             1,942 Zoom Workplace.lnk
+               1 File(s)          1,942 bytes
+               8 Dir(s)  169,935,753,216 bytes free
+
+C:\Users\91783\OneDrive\Desktop>cd Section _O
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   git.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   git.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        a.txt
+
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git add .
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   a.txt
+        new file:   git.txt
+
+
+C:\Users\91783\OneDrive\Desktop\Section _O> git commit -m "First commit"
+[master (root-commit) d54341b] First commit
+ 2 files changed, 2 insertions(+)
+ create mode 100644 a.txt
+ create mode 100644 git.txt
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git branch -M main
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git branch
+* main
+
+C:\Users\91783\OneDrive\Desktop\Section _O>
+C:\Users\91783\OneDrive\Desktop\Section _O>git remote add origin https://github.com/adityakumar076/Gla_fullstack_backend..git
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 364 bytes | 72.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/adityakumar076/Gla_fullstack_backend..git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git add .
+
+C:\Users\91783\OneDrive\Desktop\Section _O> git commit -m "second commit"
+[main 755b591] second commit
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+
+C:\Users\91783\OneDrive\Desktop\Section _O>git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 283 bytes | 94.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/adityakumar076/Gla_fullstack_backend..git
+   d54341b..755b591  main -> main
+
+C:\Users\91783\OneDrive\Desktop\Section _O>

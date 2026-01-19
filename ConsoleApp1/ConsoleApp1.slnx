@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../evenodd/evenodd.csproj" Id="cf06e308-691a-4b77-9664-551f2f76aea6" />
+  <Project Path="../Palindrome/Palindrome.csproj" Id="a31d9a5f-0d58-48e9-9de7-628a6aa4a6d8" />
+  <Project Path="ConsoleApp1.csproj" />
+</Solution>

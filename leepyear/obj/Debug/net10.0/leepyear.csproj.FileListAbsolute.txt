@@ -1,0 +1,15 @@
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\bin\Debug\net10.0\leepyear.exe
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\bin\Debug\net10.0\leepyear.deps.json
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\bin\Debug\net10.0\leepyear.runtimeconfig.json
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\bin\Debug\net10.0\leepyear.dll
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\bin\Debug\net10.0\leepyear.pdb
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.AssemblyInfoInputs.cache
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.AssemblyInfo.cs
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.csproj.CoreCompileInputs.cache
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.sourcelink.json
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.dll
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\refint\leepyear.dll
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.pdb
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\leepyear.genruntimeconfig.cache
+C:\Users\91783\OneDrive\Desktop\Section _O\leepyear\obj\Debug\net10.0\ref\leepyear.dll
